@@ -1,5 +1,8 @@
 # Unix-and-C-Programming 
 
+## Note
+This Repository is going to publically available after 31 December 2019. 
+
 ## About
 All the practical for UNIX AND C PROGRAMMING are uploaded here after it was submitted to blackboard.
 There is readMe.txt inside each directory explaining whats need to be done and the flaws with the code. 
