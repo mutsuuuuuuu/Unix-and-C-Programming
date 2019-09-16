@@ -16,4 +16,6 @@ The Australian Copyright Act allows certain uses of content from the internet wi
 
 The owners of copyright in the content on this website may receive compensation for the use of their content by educational institutions and governments, including from licensing schemes managed by Copyright Agency.
 
+All of the practicals in this repository have been submitted to Curtin University as part of ongoing assesment for Unix and C Programming in semester 2 of 2019. You might subjected to plagarism if you copy anything from this repository without referencing.
+
 We may change these terms of use from time to time. Check before re-using any content from this website.
