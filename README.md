@@ -5,7 +5,7 @@ All the practical for UNIX AND C PROGRAMMING are uploaded here after it was subm
 There is readMe.txt inside each directory explaining whats need to be done and the flaws with the code. 
 
 ## Copyright
-© Mutsu 2014
+© Mutsu 2019
 
 Except as permitted by the copyright law applicable to you, you may not reproduce or communicate any of the content on this Github repository, including files downloadable from this repository, without the permission of the copyright owner.
 
